@@ -1,8 +1,12 @@
-.rock{
+body{
     /* border-radius: 8px; */
     /* border: 1px solid #ddd; */
     /* padding: 5px; */
     /* width: 150px; */
   background-image: url('../arafatbhai/kkli.jpg');
-    background-repeat: repeat-x;
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    padding: 5px;
+    width: 150px;
 }
