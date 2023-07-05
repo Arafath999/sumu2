@@ -9,4 +9,36 @@ body{
     border: 1px solid #ddd;
     padding: 5px;
     width: 150px;
+    text-align: center;
+    border-bottom: red;
+    border: 2px solid palegreen;
+    border-left: #ddd;
+    box-shadow: #ddd;
+    border: 1px solid #ddd;
+}
+.boxx {
+color: red;
+
+}
+#css {
+    color: chartreuse;
+    text-align: center;
+}
+#cssx{
+box-shadow: #ddd;
+border: 1px solid red;
+
+}
+body {background-repeat: no-repeat;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    padding: 5px;
+    width: 150px;
+    text-align: center;
+    border-bottom: red;
+    border: 2px solid palegreen;
+    border-left: #ddd;
+    box-shadow: #ddd;
+    border: 1px solid #ddd;
+
 }
